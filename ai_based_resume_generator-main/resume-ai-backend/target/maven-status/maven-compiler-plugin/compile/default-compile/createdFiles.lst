@@ -1,5 +1,0 @@
-com\resume\backend\ResumeRequest.class
-com\resume\backend\controller\ResumeController.class
-com\resume\backend\ResumeAiBackendApplication.class
-com\resume\backend\service\ResumeService.class
-com\resume\backend\service\ResumeServiceImpl.class
