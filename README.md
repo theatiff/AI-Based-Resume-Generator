@@ -15,20 +15,6 @@ The project uses **React.js and Tailwind CSS** for the frontend, **Spring Boot a
 
 ---
 
-## Website Preview
-
-### Homepage
-![Homepage](screenshots/homepage.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Login Page
-![Login](screenshots/login.png)
-
-
----
-
 ## **2. Project Objectives**
 
 The main objectives of this project are:
