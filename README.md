@@ -1,5 +1,5 @@
 # AI-Based Resume Generator
-llllll
+
 ## **1. Project Overview**
 
 The **AI-Based Resume Generator** is an AI-powered web application designed to simplify and improve the resume creation process. It helps users generate professional, well-structured resumes by providing their personal, educational, and professional information through a simple text prompt.
