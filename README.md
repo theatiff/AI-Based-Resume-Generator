@@ -41,8 +41,6 @@ Users can provide details such as:
 * Educational qualifications.
 * Technical and professional skills.
 * Work experience and internships.
-* Academic and personal projects.
-* Certifications and achievements.
 * Career objectives and professional summaries.
 
 The AI model processes the given prompt and generates organized resume content using the information provided.
