@@ -339,7 +339,6 @@ Some features that could be considered for future development include:
 * Multiple resume management.
 * Resume preview with different layouts.
 * Additional language support.
-* More customization options for resume sections.
 
 ---
 
