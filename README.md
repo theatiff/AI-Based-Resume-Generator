@@ -1,4 +1,3 @@
-lkjhgfdsa
 # AI-Based Resume Generator
 
 ## **1. Project Overview**
