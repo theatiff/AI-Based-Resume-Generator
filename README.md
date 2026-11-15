@@ -336,7 +336,6 @@ Some features that could be considered for future development include:
 * AI-powered resume improvement suggestions.
 * Multiple resume management.
 * Resume preview with different layouts.
-* Additional language support.
 
 ---
 
